@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: 
+baseurl: /transformator
 markdown: kramdown
 permalink: /:categories/:title/
 
