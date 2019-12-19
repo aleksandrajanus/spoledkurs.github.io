@@ -1,61 +1,35 @@
 ---
 layout: "course_page"
 
-title: "Jak działa kurs?"
+title: "Jak to działa?"
 ---
 
 <div class="text-center screen-title">
-Jak działa kurs?
+Jak to działa?
 </div>
 
 
 <div class="screen-content">
-  <p>Chcemy podzielić się z Wami doświadczeniem, które zebraliśmy przez lata pracy z otwartymi zasobami edukacyjnymi oraz współpracując w ostatnim roku z nauczyciel(k)ami i specjalist(k)ami z różnych dziedzin. <br/>
-Kurs oparty jest na materiałach, które powstały w ramach Spółdzielni oraz podczas innych projektów Centrum Cyfrowego. <br/>
-Otwarta edukacja to między innymi dzielenie się, wykorzystywanie dostępnych zasobów, ekologia obiegów treści, dlatego chętnie sięgamy po treści już dostępne w sieci i dlatego też zachęcamy Was do czytania, pobierania i przerabiania materiałów tu dostępnych na własne potrzeby.
+  <p>Program i metodologia pracy powstała w oparciu o badania, konsultacje z instytucjami kultury oraz doświadczenie w pracy na ich rzecz. Od lat wspierając polskie instytucje kultury, nie tylko zdążyliśmy dobrze poznać ich potrzeby i stojące przed nimi wyzwania, ale także przyjrzeć się ich kulturze pracy. Refleksje z badań i własnych doświadczeń stanowią podstawę opracowanego przez nas, bezpłatnego, otwartego programu.
 </p> 
-<p>Treści kursu są dostępne dla wszystkich chętnych - bez rejestracji. Kurs zawiera również samosprawdzające się quizy i testy.</p>
+<p>Treści tu zgromadzone są dostępne dla wszystkich chętnych, podobnie jak dołączone schematy i formatki (tzw. canvas). Możecie dzielić się nimi ze swoimi współpracownikami. </p>
   
   &nbsp;
   
   <p><strong>Tematyka kursu:</strong></p>  
-  <p>Poprzez kurs chcemy wspierać tworzenie otwartych zasobów edukacyjnych oraz prezentować otwarte podejście do edukacji. Najważniejszą dla nas wartością, wokół której zbudowany jest kurs internetowy i wszystkie działania SpołEdu, jest współpraca. Dlatego też będziemy zwracać uwagę nie tylko na zasoby, ale przede wszystkim na sposób ich tworzenia. Zależy nam, aby proces twórczy był przyjemnością, wspierał samorozwój i dawał satysfakcję. 
+  <p>Do współpracy zaprosiliśmy także – współdziałającą z nami od początków Pracowni – agencję Superskrypt - która ma bogate doświadczenie w realizowaniu projektów dla instytucji kultury. Ich doświadczenie bycia “po tej drugiej stronie” procesów dziejących się w instytucjach było dla nas bardzo cenne i pozwoliło nam wypracować Transformator kultury – bazę wiedzy dla instytucji będących w fazie transformacji cyfrowej, chcących świadomie, mądrze i w sposób zrównoważony realizować projekty cyfrowe.
 </p>
 
 &nbsp;
   
   <p><strong>Dla kogo:</strong></p>  
-  <p>Kurs jest przeznaczony przede wszystkim dla nauczycieli i nauczycielek edukacji szkolnej, ale przydać się też może wszystkim pracującym z młodzieżą, a także nauczyciel(k)om akademickim.</p>
+  <p>Zgromadzoną tu wiedzę adresujemy przede wszystkim do pracowniczek i pracowników instytucji kultury, ale wierzymy, że może być przydatna także dla niezależnych menedżerów kultury i kuratorów projektów kulturalnych oraz osób współpracujących z szeroko rozumianym sektorem GLAM (galerie, biblioteki, archiwa, muzea).</p>
 
 &nbsp;
-
-<p><strong>Czas:</strong></p>  
-  <p>Przejście całego kursu wraz z wykonaniem zadań jest obliczone na 6 tygodni. Proponujemy zaglądanie na kurs 2-3 razy w tygodniu, aby sprawdzić, czy coś ciekawego dla nas pojawiło się na forum. Przeczytanie jednego modułu i wykonanie zadania nie powinno zająć więcej niż 3 godziny.</p>
-  
-  &nbsp;
   
   <p><strong>Struktura:</strong></p>  
-  <p>Kurs podzielony jest na 6 modułów. Pierwszy i ostatni to moduły organizacyjne. Po każdym z czterech modułów merytorycznych można wykonać zadanie. Uczestniczki i uczestnicy korzystający ze wsparcia mentorskiego przesyłają zrealizowane zadania do mentorów, mentorek. Ostatnie zadanie będzie polegało na stworzeniu własnego otwartego zasobu edukacyjnego.</p>
-  
-  &nbsp;
-  
-  <p><strong>Co będę umiał/a po kursie:</strong></p>  
-  <p>
-  <ul>
-    <li class="bullet">nauczę się rozpoznawać i w pełni wykorzystywać otwarte zasoby edukacyjne;</li>
-<li class="bullet">nauczę się wykorzystywać narzędzia, które pomogą mi w tworzeniu OZE;</li>
-<li class="bullet">poznam podstawy prawa autorskiego, dowiem się, czym są wolne licencje i jak je wykorzystać w OZE;</li>
-<li class="bullet">poznam metody pracy w grupie, w tym pracy zdalnej, włączającej, z osobami z różnych środowisk;</li>
-<li class="bullet">poznam trendy w otwartej edukacji.</li>
-</ul>
-</p>
-  
-  &nbsp;
-  
-  <p><strong>Zadania:</strong></p>  
-  <p>Po każdym module znajdziecie propozycję zadań do wykonania. Gotowe zadania można przesłać do mentora, mentorki kursu (jeśli korzysta się z opcji mentorskiej) lub umieścić na forum kursu. Aby otrzymać zaświadczenie za udział w kursie należy wykonać cztery kursowe zadania.
-Gotowe otwarte zasoby można przesłać na adres: spoled@centrumcyfrowe.pl
-</p>
+  <p>Zgromadzona tu wiedza podzielona jest na części odpowiadające kolejnym częściom procesu pracy projektowej. Zależało nam na tym, aby w sposób czytelny i przejrzysty opisać wszystkie kroki, jakie warto przejść, pracując nad projektem cyfrowym. Nie oznacza to, że należy zawsze korzystać z tej strony zgodnie z tym porządkiem - można też "przeskakiwać" do wybranych etapów.</p>
+ 
   
   &nbsp;
   
