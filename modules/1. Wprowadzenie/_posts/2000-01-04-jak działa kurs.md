@@ -13,10 +13,7 @@ Jak to działa?
   <p>Program i metodologia pracy powstała w oparciu o badania, konsultacje z instytucjami kultury oraz doświadczenie w pracy na ich rzecz. Od lat wspierając polskie instytucje kultury, nie tylko zdążyliśmy dobrze poznać ich potrzeby i stojące przed nimi wyzwania, ale także przyjrzeć się ich kulturze pracy. Refleksje z badań i własnych doświadczeń stanowią podstawę opracowanego przez nas, bezpłatnego, otwartego programu.
 </p> 
 <p>Treści tu zgromadzone są dostępne dla wszystkich chętnych, podobnie jak dołączone schematy i formatki (tzw. canvas). Możecie dzielić się nimi ze swoimi współpracownikami. </p>
-  
-  &nbsp;
-  
-  <p><strong>Tematyka kursu:</strong></p>  
+ 
   <p>Do współpracy zaprosiliśmy także – współdziałającą z nami od początków Pracowni – agencję Superskrypt - która ma bogate doświadczenie w realizowaniu projektów dla instytucji kultury. Ich doświadczenie bycia “po tej drugiej stronie” procesów dziejących się w instytucjach było dla nas bardzo cenne i pozwoliło nam wypracować Transformator kultury – bazę wiedzy dla instytucji będących w fazie transformacji cyfrowej, chcących świadomie, mądrze i w sposób zrównoważony realizować projekty cyfrowe.
 </p>
 
