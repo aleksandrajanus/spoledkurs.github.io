@@ -7,17 +7,23 @@ published: true
 <p>Transformacja cyfrowa w instytucjach kultury 
   </p>
   <p>
-    Poznasz metodę pracy Spółdzielni Otwartej Edukacji. Dowiesz się, czemu współpraca, uczenie się, przygodą i w efekcie otwarte zasoby są dla nas ważnymi elementami procesu otwierania się w edukacji. Podczas kursu będziesz mieć okazję poznać innych nauczycieli i nauczycielki, dyskutować z nimi i uczyć się wzajemnie, a nawet zaprosić do współpracy. 
+    Era cyfrowa stawia przed instytucjami kultury szereg nowych wyzwań. Instytucje przechodzą proces transformacji cyfrowej posługując się procesami, technikami i narzędziami niedopasowanymi do nowej sytuacji. Wierzymy, że kluczem do powodzenia jest:
+Silne osadzenie projektów w strategii instytucji
+Rozwój oparty o dane wspierające intuicję twórcy
+Angażowanie multidyscyplinarnych zespołów
+Projektowanie zorientowane na użytkownika
+    Brak tych elementów nie pozwala instytucjom kultury na wykorzystanie pełni możliwości technologii cyfrowych w realizacji misji i wypełnianiu swojej społecznej roli.
  </p> 
 </div>  
 
 <div class="home-intro">
-  <p id="intro">Kurs będzie okazją do tego, aby dzielić się swoimi doświadczeniami i stać się częścią społeczności praktyków korzystających z otwartych zasobów online i tworzących swoje własne materiały.</p>
+  <p id="intro">"Transformator kultury" to zbiór dobrych praktyk i narzędzi z obszarów zarządzania, projektowania oraz inżynierii oprogramowania tworzących szkielet procesu stworzony pod kątem projektów cyfrowych i dopasowany do realiów instytucji kultury.
+.</p>
 </div>  
 
 <div class="front">
  <p> 
-Jeśli dopiero planujesz korzystanie z otwartych zasobów, kurs będzie dla Ciebie świetnym punktem startowym, który da Ci szeroki ogląd na otwartość i zasoby. Jeśli już posiadasz takie doświadczenia, ale stale szukasz okazji, aby stworzyć i podzielić się samodzielnie opracowanymi materiałami dydaktycznymi z innymi, kurs to także dobre miejsce dla Ciebie. 
+Wykorzystanie tych narzędzi i praktyk może wesprzeć instytucje w bardziej efektywnym realizowaniu ich misji. 
   </p>  
 </div>
 
