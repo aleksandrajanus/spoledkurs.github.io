@@ -17,14 +17,11 @@ Projektowanie zorientowane na użytkownika
 </div>  
 
 <div class="home-intro">
-  <p id="intro">"Transformator kultury" to zbiór dobrych praktyk i narzędzi z obszarów zarządzania, projektowania oraz inżynierii oprogramowania tworzących szkielet procesu stworzony pod kątem projektów cyfrowych i dopasowany do realiów instytucji kultury.
-.</p>
+  <p id="intro">"Transformator kultury" to zbiór dobrych praktyk i narzędzi z obszarów zarządzania, projektowania oraz inżynierii oprogramowania tworzących szkielet procesu stworzony pod kątem projektów cyfrowych i dopasowany do realiów instytucji kultury. Wykorzystanie tych narzędzi i praktyk może wesprzeć instytucje w bardziej efektywnym realizowaniu ich misji. 
+</p>
 </div>  
 
 <div class="front">
- <p> 
-Wykorzystanie tych narzędzi i praktyk może wesprzeć instytucje w bardziej efektywnym realizowaniu ich misji. 
-  </p>  
 </div>
 
 
