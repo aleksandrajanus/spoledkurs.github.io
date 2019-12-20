@@ -4,10 +4,7 @@ published: true
 ---
 
 <div class="front">
-<p>Transformacja cyfrowa w instytucjach kultury 
-  </p>
-  <p>
-    Era cyfrowa stawia przed instytucjami kultury szereg nowych wyzwań. Instytucje przechodzą proces transformacji cyfrowej posługując się procesami, technikami i narzędziami niedopasowanymi do nowej sytuacji. Wierzymy, że kluczem do powodzenia jest:
+<p>Era cyfrowa stawia przed instytucjami kultury szereg nowych wyzwań. Instytucje przechodzą proces transformacji cyfrowej posługując się procesami, technikami i narzędziami niedopasowanymi do nowej sytuacji. Wierzymy, że kluczem do powodzenia jest:
 Silne osadzenie projektów w strategii instytucji
 Rozwój oparty o dane wspierające intuicję twórcy
 Angażowanie multidyscyplinarnych zespołów
