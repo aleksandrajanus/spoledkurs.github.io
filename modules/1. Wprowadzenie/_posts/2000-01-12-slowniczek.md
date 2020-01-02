@@ -13,7 +13,7 @@ Słowniczek
 </div>
 
 <div class="screen-content">
-  <p>W czasie kursu będziemy używać pojęć związanych z tematyką otwartości, aby uściślić o czym mówimy, zdecydowaliśmy się stworzyć słowniczek pojęć.</p> 
+  <p>W czasie kursu będziemy używać pojęć, które nie wszystkim mogą być znane lub ich znaczenie może nie być jasne. Ten słowniczek pomoże Wam mieć pewność, że właściwie rozumiecie pojawiające się w tekście terminy. Znajdziecie tu pojęcia z zakresu prawa autorskiego, technologii i metodyk zarządzania. </p> 
  
  &nbsp;
   
