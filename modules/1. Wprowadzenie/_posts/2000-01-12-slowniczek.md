@@ -43,18 +43,6 @@ korzystanie w celach handlowych, zarobkowych.
 <p><a class="content-link dictionary" name="open_access"><strong>open access</strong></a><br/> 
 wolny, powszechny, trwały i natychmiastowy dostęp dla każdego do cyfrowych form zapisu danych i treści naukowych oraz edukacyjnych (wikipedia.pl).
 </p>
-<p><a class="content-link dictionary" name="otwarta_edukacja"><strong>otwarta edukacja</strong></a><br/> 
-edukacja oparta na zaufaniu, dzieleniu się i współpracy, z wykorzystaniem nowoczesnych technologii i otwartych zasobów edukacyjnych.
-</p>
-<p><a class="content-link dictionary" name="oze"><strong>otwarte zasoby edukacyjne (OZE)</strong></a><br/> 
-zasoby edukacyjne na wolnych licencjach (lub przeniesione do domeny publicznej), udostępniane za pośrednictwem dowolnych technologii informacyjno-telekomunikacyjnych.
-</p>
-<p><a class="content-link dictionary" name="utwor"><strong>utwór</strong></a><br/> 
-każdy przejaw działalności twórczej o indywidualnym charakterze, ustalony w jakiejkolwiek postaci, niezależnie od wartości, przeznaczenia i sposobu wyrażenia (art. 1 p. 1 Ustawy o prawie autorskim i prawach pokrewnych).
-</p>
-<p><a class="content-link dictionary" name="uznanie_autorstwa"><strong>uznanie autorstwa</strong></a><br/> 
-informacja o autorze, autorce utworu, warunek konieczny przy wykorzystaniu czyjegoś utworu, np. cytacie lub remiksie. Zawsze należy zamieścić informację, czyj utwór wykorzystujemy
-</p>
 <p><a class="content-link dictionary" name="wolne_licencje"><strong>wolne licencje</strong></a><br/> 
 licencje, które odpowiadają definicji Wolnych Dóbr Kultury i respektują prawa użytkowników, czyli zezwalają na korzystanie, rozpowszechnianie, modyfikowanie oraz rozpowszechnianie modyfikacji utworu.
 </p>
