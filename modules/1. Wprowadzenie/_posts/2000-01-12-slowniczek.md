@@ -22,11 +22,7 @@ Słowniczek
 <a class="content-link" href="#domena_publiczna">domena publiczna</a>, 
 <a class="content-link" href="#dozwolony_uzytek">dozwolony użytek</a>, 
 <a class="content-link" href="#komercyjne_uzycie">komercyjne użycie</a>, 
-<a class="content-link" href="#open_access">open access</a>, 
-<a class="content-link" href="#otwarta_edukacja">otwarta edukacja</a>,  
-<a class="content-link" href="#oze">otwarte zasoby edukacyjne (OZE)</a>, 
-<a class="content-link" href="#utwor">utwór</a>, 
-<a class="content-link" href="#uznanie_autorstwa">uznanie autorstwa</a>, 
+<a class="content-link" href="#open_access">open access</a>,  
 <a class="content-link" href="#wolne_licencje">wolne licencje</a>. 
  </p> 
  
