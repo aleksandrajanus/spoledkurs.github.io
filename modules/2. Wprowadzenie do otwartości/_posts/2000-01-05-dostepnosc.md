@@ -5,11 +5,11 @@ title: "Dostępność"
 ---
 
 <div class="text-center screen-title">
-Dostępność materiałów edukacyjnych
+Dostępność
 </div>
 
 <div class="screen-content">
-<p>Otwartość w edukacji to również jej dostępność dla osób z różnymi potrzebami edukacyjnymi i dysfunkcjami. Warto o tym pamiętać, kiedy tworzymy swoje zasoby, ale również, kiedy myślimy o edukacji w szerszym kontekście, tworząc scenariusze lekcji czy myśląc o sposobie nauczania. Dorota Orzeszek przygotowała wskazówki dla tych, którzy chcą umieszczać swoje materiały w internecie, w jak najbardziej dostępny sposób.</p>
+<p>Instytucja kultury otwarta na swoich odbiorców to również instytucja dostępna dla osób z różnymi potrzebami. Warto o tym pamiętać, kiedy udostępnia się i tworzymy swoje zasoby. Nasza specjalistka od dostępności, Dorota Orzeszek, od lat uczy nas, jak dbać o wszystkich odbiorców zgodnie z ideą "universal design". Przygotowała dla nas także wskazówki dotyczące tego, jak umieszczać swoje materiały w internecie, w jak najbardziej dostępny sposób.</p>
   &nbsp;
   <p>
   <strong>Co zrobić, żeby tekst był jak najbardziej dostępny?</strong>
