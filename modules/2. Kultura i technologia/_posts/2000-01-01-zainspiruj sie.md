@@ -19,4 +19,11 @@ Nowoczesna instytucja kultury, która świadomie buduje swoją pozycję w oparci
 
 
 <p>Proces i rekomendacje, które tu prezentujemy, opracowaliśmy na podstawie naszych doświadczeń pracy z instytucjami kultury, by pomóc im tworzyć wartościowe produkty cyfrowe. Poniższy model nie jest jedynym możliwym modelem realizacji projektów IT.  Natomiast jest to model, który został opracowany z uwzględnieniem specyfiki publicznych instytucji. Zachęcamy do zajrzenia na naszą stronę www.otwartakultura.org, by dowiedzieć się więcej o poszczególnym przypadkach, dobrych praktykach, badaniach i lekcjach, które można wyciągnąć z tego, co zrobili inni.</p>
+
+<p>Jest to także efekt naszego wsłuchiwania się w głos instytucji i uważności na ich potrzeby.</p>
+<div class="row">
+  <div class="col-md-12 col-xs-12">
+   <div class="embed-responsive embed-responsive-16by9">
+   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=TkWfjh1MOTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
+</div>
 </div>
