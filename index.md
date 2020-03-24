@@ -4,12 +4,7 @@ published: true
 ---
 
 <div class="front">
-<p>Era cyfrowa stawia przed instytucjami kultury szereg nowych wyzwań. Instytucje przechodzą proces transformacji cyfrowej posługując się procesami, technikami i narzędziami niedopasowanymi do nowej sytuacji. Wierzymy, że kluczem do powodzenia jest:
-Silne osadzenie projektów w strategii instytucji
-Rozwój oparty o dane wspierające intuicję twórcy
-Angażowanie multidyscyplinarnych zespołów
-Projektowanie zorientowane na użytkownika
-    Brak tych elementów nie pozwala instytucjom kultury na wykorzystanie pełni możliwości technologii cyfrowych w realizacji misji i wypełnianiu swojej społecznej roli.
+<p>Era cyfrowa stawia przed instytucjami kultury szereg nowych wyzwań. Instytucje przechodzą proces transformacji cyfrowej posługując się procesami, technikami i narzędziami niedopasowanymi do nowej sytuacji. Wierzymy, że kluczem do powodzenia jest: silne osadzenie projektów w strategii instytucji, rozwój oparty o dane wspierające intuicję twórcy, angażowanie interdyscyplinarnych zespołów, projektowanie zorientowane na użytkownika. Brak tych elementów nie pozwala instytucjom kultury na wykorzystanie pełni możliwości technologii cyfrowych w realizacji misji i wypełnianiu swojej społecznej roli.
  </p> 
 </div>  
 
