@@ -375,20 +375,20 @@ li {
 
 	a:hover, a:focus {
 		text-decoration: none;
-		color: #000000; 
+		color: #FDF733; 
 	}
 }
 
 .sidebar li:active {
-	color: #000000 !important; 
+	color: #FDF733 !important; 
 }
 
 .sidebar li:focus {
-	color: #000000 !important; 
+	color: #FDF733 !important; 
 }
 
 .sidebar li.active a:hover  {
-	color: #000000;
+	color: #FDF733;
 }
 
 /*stąd wycięty li::before */
@@ -443,21 +443,21 @@ li {
 
 	a:hover, a:focus {
 		text-decoration: none;
-		color: #000000
+		color: #FDF733;
 	}
 }
 
 .sidebar1 li.active {
 	background-color: #391796;
-	color: #000000;
+	color: #FDF733;
 }
 
 .sidebar1 li.active a:hover {
-	color: #000000;
+	color: #FDF733;
 }
 
 .sidebar1 li:focus {
-	color: #000000!important; 
+	color: #FDF733 !important; 
 }
 
 
